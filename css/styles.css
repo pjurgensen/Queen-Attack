@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+   color: #E6B449;
+   font-family: Florence, cursive;
+   font-size: 65px;
+}
+
+#queen-col, #target-col {
+  padding-left: 25px;
+}
+
+.btn {
+  color: black;
+  background-color: #E6B449;
+}
+
+p {
+  color: white;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.form-font {
+  color: white;
+  font-family: sans-serif;
+  font-weight: 400;
+}
